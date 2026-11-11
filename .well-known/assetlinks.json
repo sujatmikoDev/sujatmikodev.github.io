@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sujatmikodev.twa",
+        "sha256_cert_fingerprints": ["00:AF:34:76:19:B8:05:1A:1A:5E:83:1F:C3:EA:90:DB:5E:FC:2B:A5:66:D1:D5:4F:84:E5:C2:3F:3F:AB:66:8D"]
+      }
+    }]
